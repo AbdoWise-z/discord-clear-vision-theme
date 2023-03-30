@@ -1611,7 +1611,8 @@ body,button,input,select,textarea,::placeholder{
 }
 .channelTextArea-1VQBuV .scrollableContainer-15eg7h{
     background:rgba(0,0,0,0);
-    border:2px solid rgba(0,0,0,0)
+    border:2px solid rgba(0,0,0,0);
+	overflow-y:auto
 }
 .channelTextArea-1VQBuV .attachButton-_ACFSu{
     padding:10px 10px 10px 12px
@@ -5158,7 +5159,8 @@ code{
     width:95%
 }
 .mainCard-3KBsBI .channelTextArea-1VQBuV .scrollableContainer-15eg7h{
-    background:rgba(0,0,0,0)
+    background:rgba(0,0,0,0);
+	overflow-y:auto
 }
 .mainCard-3KBsBI .contentContainer-2xwoXK{
     padding:10px 0px 0px 0px
